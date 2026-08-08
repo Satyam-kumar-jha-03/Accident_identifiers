@@ -1,0 +1,12 @@
+Flask
+Flask-SocketIO
+python-socketio
+opencv-python
+ultralytics
+torch
+torchvision
+pillow
+scikit-learn
+pandas
+eventlet
+numpy
